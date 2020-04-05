@@ -48,8 +48,6 @@
  
 ***Bon Appetit!***
 
-![chocolate cookie](https://raw.githubusercontent.com/Ranalbantoglu/Ranalbantoglu/master/IMG_20200321.JPG) 
-
 #### Kalori 
 + 100 gram 497 kcal
 + 1 kurabiye 64 kcal
